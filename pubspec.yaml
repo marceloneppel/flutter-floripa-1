@@ -8,8 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_slides:
-    path: "/home/marcelo/Área de Trabalho/Flutter Meetup/repositories/flutter_slides"
+  flutter_slides: 0.0.9
   flutter_beat_sequencer:
     git: https://github.com/modulovalue/flutter_beat_sequencer
   vr_landing:

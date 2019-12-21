@@ -130,10 +130,10 @@ packages:
   flutter_slides:
     dependency: "direct main"
     description:
-      path: "/home/marcelo/Área de Trabalho/Flutter Meetup/repositories/flutter_slides"
-      relative: false
-    source: path
-    version: "0.0.8"
+      name: flutter_slides
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.9"
   flutter_test:
     dependency: "direct dev"
     description: flutter
